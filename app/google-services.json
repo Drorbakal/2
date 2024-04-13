@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269451723135",
+    "project_id": "haircutbooking-f3a6f",
+    "storage_bucket": "haircutbooking-f3a6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269451723135:android:b32488f65b7dcc2b425a4a",
+        "android_client_info": {
+          "package_name": "com.example.haircutbooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzNwalNJDYYHD53d8S2jCMocZGKvu7MQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
